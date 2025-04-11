@@ -204,14 +204,11 @@ else:
 
 ---
 
-## 👥 Contributors
+## 👥 Contributor
 
 - **Dipendra Raj Bhatt** - Developer & Researcher 👨‍💻
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** 📄.
 
 
